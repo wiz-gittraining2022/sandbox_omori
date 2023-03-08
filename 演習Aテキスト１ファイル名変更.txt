@@ -2,4 +2,4 @@
 天気は晴れています。
 赤
 黄
-abcdefg
+aaaaaa
